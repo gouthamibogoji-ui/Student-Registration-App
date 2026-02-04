@@ -120,7 +120,7 @@ database="webgui"
 
 streamlit run app.py
 
-### Author
+### Developed by
 
 Gouthami Bogoji
 
