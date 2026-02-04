@@ -35,12 +35,15 @@ Session-based user access control
 
 ## Tech Stack
 
-Technology	Purpose
-Python	Backend logic
-Streamlit	Web UI
-MySQL	Database
-bcrypt	Password hashing
-pandas	Data handling
+--Python 3
+
+--Streamlit – Web application framework
+
+--MySQL – Relational database
+
+--bcrypt – Password hashing
+
+--pandas – Data handling
 
 📂 Project Structure
 
