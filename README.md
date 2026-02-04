@@ -96,9 +96,9 @@ CREATE TABLE registration (
 
 #### Step 1: Clone the Repository
 
-git clone https://github.com/gouthamibogoji-ui/Student--Registration-App.git
+git clone https://github.com/gouthamibogoji-ui/Student-Registration-App.git
 
-cd Student--Registration-App
+cd Student-Registration-App
 
 #### Step 2: Install Required Packages
 
