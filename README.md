@@ -1,4 +1,4 @@
-# Student Registration System (Streamlit + MySQL)
+# Student Registration App (Streamlit + MySQL)
 A full-stack Student Registration System built using Streamlit, MySQL, and Python, featuring secure authentication, CRUD operations, and a clean interactive UI.This application allows authenticated users to manage student records efficiently with full CRUD functionality and secure user authentication.
 
 ## Features
@@ -91,17 +91,17 @@ CREATE TABLE registration (
 
 ## How to Run the Project
 
-Step 1: Clone the Repository
+#### Step 1: Clone the Repository
 
 git clone https://github.com/gouthamibogoji-ui/student-App.git
 
 cd student-registration-system
 
-Step 2: Install Required Packages
+#### Step 2: Install Required Packages
 
 pip install -r requirements.txt
 
-Step 3: Configure Database
+#### Step 3: Configure Database
 
 Update MySQL credentials in the code:
 
@@ -113,17 +113,17 @@ password="YOUR_PASSWORD"
 
 database="webgui"
 
-Step 4: Launch the App
+#### Step 4: Launch the App
 
 streamlit run app.py
 
-# Author
+### Author
 
 Gouthami Bogoji
 
 Aspiring Data Scientist | Python Developer | Streamlit Enthusiast
 
-# Feedback & Support
+### Feedback & Support
 
 --If you find this project useful:
 
